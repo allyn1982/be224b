@@ -34,20 +34,20 @@ Line 179 to ling 236
 - Step 3 
 Run each block of code for each subject.
 Example: Subject 1
-         - 1. Run ### step 1 ### to read in the coordinates of the landmarks
-            Line 343 to line 251
-         - 2. Run ### step 2 ### to preprocess the fluoroscopic image
-            Line 255
-         - 3. Run ### step 3 ### to align the fluoroscopy with the CT using landmarks
-             Line 259 to line 291
-         - 4. Run ### step 4 ### to plot the electrodes on the fluoroscopic image
-            Line 297 to line 331
-         - 5. Run ### step 5 ### to get the electrode coordinates in the 3D space
-            Line 336 to line 347
-         - 6. Run ### step 6 ### to visualize the electrodes on the cortical surface using the 1st projection algorithm
-            Line 353 to line 377
-         - 7. Run ### step 6 ### to visualize the electrodes on the cortical surface using the 2nd projection algorithm
-            Line 380 to line 404
+    - 1. Run ### step 1 ### to read in the coordinates of the landmarks
+    Line 343 to line 251
+    - 2. Run ### step 2 ### to preprocess the fluoroscopic image
+    Line 255
+    - 3. Run ### step 3 ### to align the fluoroscopy with the CT using landmarks
+     Line 259 to line 291
+    - 4. Run ### step 4 ### to plot the electrodes on the fluoroscopic image
+    Line 297 to line 331
+    - 5. Run ### step 5 ### to get the electrode coordinates in the 3D space
+    Line 336 to line 347
+    - 6. Run ### step 6 ### to visualize the electrodes on the cortical surface using the 1st projection algorithm
+    Line 353 to line 377
+    - 7. Run ### step 6 ### to visualize the electrodes on the cortical surface using the 2nd projection algorithm
+    Line 380 to line 404
          
 - Step 4 
  Run the rest of the code for each subject according to the steps specified in Step 3.
