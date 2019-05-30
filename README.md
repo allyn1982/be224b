@@ -32,7 +32,7 @@ Run the block of code related to reading in images and volume data and removing 
 
 - Step 3 
 Run each block of code for each subject.
-Example: Subject 1
+    - Example: Subject 1
     - 1. Run ### step 1 ### to read in the coordinates of the landmarks 
         - Line 343 to line 251
     - 2. Run ### step 2 ### to preprocess the fluoroscopic image
