@@ -6,9 +6,6 @@ Student name: Yannan Lin
 
 ## Getting Started
 
-These instructions will help you get the application up and running on your local machine. Current implementation is 
-OS-specific to Windows, due to certain dependencies.
-
 ### Prerequisites
 
 - Python 3.6
