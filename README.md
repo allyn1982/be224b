@@ -16,8 +16,8 @@ Student name: Yannan Lin
 #### Mayavi installation 
 
 ##### 1. Install Anaconda
-- Download and install [Anaconda](https://www.anaconda.com/download/) for Windows. 
-- Enter Anaconda Navigator and Initialize a new virtual environment with specification on Python 3.6
+- Download and install [Anaconda](https://www.anaconda.com/download/). 
+- Enter Anaconda Navigator and initialize a new virtual environment with specification on Python 3.6
 ##### 2. Install mayavi
 - Add conda to environment path 
 - run "conda install mayavi" to install the package
