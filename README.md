@@ -11,7 +11,7 @@ Student name: Yannan Lin
 - Python 3.6
     - Download Python from their website: https://www.python.org/downloads/
     - Dependencies
-        - mayavi, opencv, math, numpy, nibabel, PIL, mayavi, matplotlib
+        - mayavi, opencv, math, numpy, nibabel, PIL, matplotlib
         
 #### Mayavi installation 
 
