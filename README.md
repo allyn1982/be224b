@@ -53,7 +53,7 @@ Example: Subject 1
  Line 413 to line 975
   
 - Note:
-1. To avoid overlaying of mayavi scene onto each other, please only run one block each time.
+1. To avoid overlaying of mayavi scenes, please only run one block of code each time as instructed.
 
 ### Author:
 Yannan Lin (allyn1982@ucla.edu)
