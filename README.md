@@ -24,7 +24,8 @@ Student name: Yannan Lin
 
 ### Running the program
 - Step 1
-Run the imports and functions section in the script. - Line 7 to line 176
+Run the imports and functions section in the script
+    - Line 7 to line 176
 
 - Step 2
 Run the block of code related to reading in images and volume data and removing NAN
